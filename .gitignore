@@ -156,3 +156,5 @@ docs/source/sections/_generated_autodoc
 # ignore any log data 
 Results/
 
+
+*.code-workspace

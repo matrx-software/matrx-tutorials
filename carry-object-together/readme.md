@@ -3,7 +3,7 @@
 See the [MATRX tutorial here](https://matrx-software.com/docs/how-to/carrying-an-object-together/)
 
 Instructions as per usual:
-- Install: `pip install -r requirements.txt`
+- Install: `pip install --upgrade matrx`
 - Run: `python main.py` 
 - View in your browser: `127.0.0.1:3000` 
   - Go to the god view and press play 
